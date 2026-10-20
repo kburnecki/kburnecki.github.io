@@ -1,0 +1,20 @@
+---
+layout: about
+title: "About"
+permalink: /
+nav: false
+profile: false
+selected_papers: false
+social: false
+announcements:
+  enabled: false
+latest_posts:
+  enabled: false
+nav_order: 0
+description: "Associate Professor at Wrocław University of Science and Technology."
+---
+<link rel="stylesheet" href="{{ '/assets/css/personal.css' | relative_url }}">
+<div class="intro"><div><p>I am an Associate Professor at the <a href="https://wmat.pwr.edu.pl/en/">Faculty of Pure and Applied Mathematics</a>, Wrocław University of Science and Technology, where I head the Department of Applied Mathematics and serve as Vice-director of the <a href="https://hsc.pwr.edu.pl/">Hugo Steinhaus Center</a>.</p><p>My research connects stochastic modelling and computational statistics with applications in insurance mathematics and mathematical (bio)physics, with a particular interest in heavy-tailed and long-memory models.</p><div class="inline-links"><a href="{{ '/research/' | relative_url }}">Research →</a><a href="{{ '/publications/' | relative_url }}">Publications →</a><a href="{{ '/assets/pdf/Krzysztof-Burnecki-CV-2026.pdf' | relative_url }}">Download CV ↗</a></div><a class="email" href="mailto:krzysztof.burnecki@pwr.edu.pl">krzysztof.burnecki@pwr.edu.pl</a></div><figure><img src="{{ '/assets/img/krzysztof-burnecki.png' | relative_url }}" alt="Krzysztof Burnecki" width="250" height="300"><figcaption><a href="https://hsc.pwr.edu.pl/">Hugo Steinhaus Center</a> · Wrocław</figcaption></figure></div>
+<h2>Research interests</h2><div class="research-grid"><section><span class="number">01</span><h3>Stochastic modelling</h3><p>Heavy-tailed distributions, self-similarity and processes with long-range dependence.</p><a href="{{ '/research/#stochastic-modelling' | relative_url }}">Explore →</a></section><section><span class="number">02</span><h3>Statistics &amp; (bio)physics</h3><p>Fractional dynamics, anomalous diffusion and statistical identification of complex systems.</p><a href="{{ '/research/#statistics' | relative_url }}">Explore →</a></section><section><span class="number">03</span><h3>Insurance mathematics</h3><p>Loss models, ruin probabilities and the modelling of natural catastrophe risk.</p><a href="{{ '/research/#insurance' | relative_url }}">Explore →</a></section></div>
+<section class="service"><h2>Academic service</h2><p>Editor-in-Chief of <a href="https://biophysmath.ptm.org.pl/">BioPhysMath</a>. Associate Editor of <a href="https://link.springer.com/journal/180"><em>Computational Statistics</em></a>, <a href="https://iciam.org/news/dianoia"><em>ICIAM Dianoia</em></a>, <a href="https://ems.press/journals/mag"><em>EMS Magazine</em></a> and <a href="https://wydawnictwa.ptm.org.pl/index.php/matematyka-stosowana"><em>Mathematica Applicanda</em></a>.</p><p>Member of the <a href="https://ecmiindmath.org/bodies-of-ecmi/research-and-innovation-committee/">ECMI Research and Innovation Committee</a>, the <a href="https://www.ptm.org.pl/">Polish Mathematical Society</a> and the <a href="https://actuary.org.pl/">Polish Society of Actuaries</a>.</p></section><section class="contact-panel"><h2>Contact</h2><address><strong>Wrocław University of Science and Technology</strong><br>Faculty of Pure and Applied Mathematics · Department of Applied Mathematics<br>Wybrzeże Wyspiańskiego 27, 50-370 Wrocław, Poland<br>Room A.3.24 · Building C-19<br><a href="mailto:krzysztof.burnecki@pwr.edu.pl">krzysztof.burnecki@pwr.edu.pl</a></address></section>
+<script defer src="{{ '/assets/js/personal.js' | relative_url }}"></script>

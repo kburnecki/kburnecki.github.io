@@ -1,0 +1,1942 @@
+---
+layout: page
+title: "Publications"
+permalink: /publications/
+nav: true
+nav_order: 2
+description: "Articles, book chapters, books and preprints."
+---
+<link rel="stylesheet" href="{{ '/assets/css/personal.css' | relative_url }}">
+<label class="filter-label" for="publication-filter">Search publications</label><input id="publication-filter" type="search" placeholder="Filter by title, author, journal or year…"><p id="publication-count" role="status"></p><p><a href="{{ '/assets/bib/burnecki-publications.bib' | relative_url }}" download>Download complete bibliography (.bib)</a></p><h2>Books and edited volumes</h2><div class="publication-entry" data-kind="book"><b>K. Burnecki</b>, J. Szwabiński, and M. Teuerle (eds.). <em>Progress in Industrial Mathematics at ECMI 2023</em>. Mathematics in Industry, vol. 41. Springer, 2026. [<a href="https://doi.org/10.1007/978-3-032-20404-2">DOI</a>]<details class="bibtex-panel"><summary>bib</summary><pre><code>@proceedings{ECMI2023_2026,
+  editor = {Burnecki, Krzysztof and Szwabiński, Janusz and Teuerle, Marek},
+  title = {Progress in Industrial Mathematics at ECMI 2023: 22nd ECMI Conference, Wrocław, Poland, June 26–30, Selected and Reviewed Papers},
+  series = {Mathematics in Industry},
+  volume = {41},
+  publisher = {Springer Nature Switzerland},
+  year = {2026},
+  isbn = {978-3-032-20404-2},
+  doi = {10.1007/978-3-032-20404-2},
+  url = {https://doi.org/10.1007/978-3-032-20404-2}
+}</code></pre><a href="{{ '/assets/bib/ECMI2023_2026.bib' | relative_url }}" download>Download BibTeX</a></details></div><div class="publication-entry" data-kind="book"><b>K. Burnecki</b>. <em>Identification, validation and prediction of fractional dynamical systems</em>. Oficyna Wydawnicza Politechniki Wrocławskiej, Wrocław, 2012.<details class="bibtex-panel"><summary>bib</summary><pre><code>@book{Burnecki2012,
+  author = {Burnecki, Krzysztof},
+  title = {Identification, validation and prediction of fractional dynamical systems},
+  publisher = {Oficyna Wydawnicza Politechniki Wrocławskiej},
+  address = {Wrocław},
+  year = {2012}
+}</code></pre><a href="{{ '/assets/bib/Burnecki2012.bib' | relative_url }}" download>Download BibTeX</a></details></div><h2>Articles</h2><table><tr class="publication-entry" data-kind="article"><td class="bibtexitem">M. Balcerek, A. Pacheco-Pozo, A. Wyłomańska, <b>K. Burnecki</b>, and D. Krapf. Two-dimensional fractional Brownian motion: analysis in time and frequency domains. <em>Journal of Physics A: Mathematical and Theoretical, 59(15), 155202, 2026</em>. [<a href="https://doi.org/10.1088/1751-8121/ae59d1">DOI</a> ]<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{new2026, title={Two-dimensional fractional Brownian motion: analysis in time and frequency domains}, volume={59}, ISSN={1751-8121}, url={http://dx.doi.org/10.1088/1751-8121/ae59d1}, DOI={10.1088/1751-8121/ae59d1}, number={15}, journal={Journal of Physics A: Mathematical and Theoretical}, publisher={IOP Publishing}, author={Balcerek, Michał and Pacheco-Pozo, Adrian and Wyłomańska, Agnieszka and Burnecki, Krzysztof and Krapf, Diego}, year={2026}, month=Apr, pages={155202} }</code></pre><a href="{{ '/assets/bib/new2026.bib' | relative_url }}" download>Download BibTeX</a></details></td></tr><tr class="publication-entry" data-kind="article"><td class="bibtexitem">K. Macioszek, F. Sabzikar, and <b>K. Burnecki</b>. Testing of tempered fractional Brownian motions. <em>BioPhysMath, 1, 1–23, 2025</em>. [<a href="https://doi.org/10.14708/001c.143908">DOI</a> ]<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{new2025, volume={1}, pages={1--23}, title={Testing of tempered fractional Brownian motions}, ISSN={3072-2489}, url={http://dx.doi.org/10.14708/001c.143908}, DOI={10.14708/001c.143908}, journal={BioPhysMath}, publisher={Polish Mathematical Society}, author={Macioszek, Katarzyna and Sabzikar, Farzad and Burnecki, Krzysztof}, year={2025}, month=Aug }</code></pre><a href="{{ '/assets/bib/new2025.bib' | relative_url }}" download>Download BibTeX</a></details></td></tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M. Balcerek, S. Thapa, <b>K. Burnecki</b>, H. Kantz, R.
+  Metzler, A. Wyłomańska, and O. Chechkin.
+ Multifractional Brownian motion with telegraphic, stochastically
+  varying exponent.
+ <em>Physical Review Letters</em>, 134:1-9, 2025.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevLett.134.197101">DOI</a>&nbsp;| 
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.197101">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000256014, title={Multifractional Brownian Motion with Telegraphic, Stochastically Varying Exponent}, volume={134}, ISSN={1079-7114}, url={http://dx.doi.org/10.1103/PhysRevLett.134.197101}, DOI={10.1103/physrevlett.134.197101}, number={19}, journal={Physical Review Letters}, publisher={American Physical Society (APS)}, author={Balcerek, Michał and Thapa, Samudrajit and Burnecki, Krzysztof and Kantz, Holger and Metzler, Ralf and Wyłomańska, Agnieszka and Chechkin, Aleksei}, year={2025}, month=May }</code></pre><a href="{{ '/assets/bib/000256014.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M. Balcerek, A. Pacheco-Pozo, A. Wyłomańska, <b>K.
+  Burnecki</b>, and D. Krapf.
+ Two-dimensional Brownian motion with dependent components: turning
+  angle analysis.
+ <em>Chaos</em>, 35(2):1-14, 2025.
+[&nbsp; 
+<a href="https://doi.org/10.1063/5.0227369">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000254574, title={Two-dimensional Brownian motion with dependent components: Turning
+                    angle analysis}, volume={35}, ISSN={1089-7682}, url={http://dx.doi.org/10.1063/5.0227369}, DOI={10.1063/5.0227369}, number={2}, journal={Chaos: An Interdisciplinary Journal of Nonlinear
+                    Science}, publisher={AIP Publishing}, author={Balcerek, Michał and Pacheco-Pozo, Adrian and Wyłomańska, Agnieszka and Burnecki, Krzysztof and Krapf, Diego}, year={2025}, month=Feb }</code></pre><a href="{{ '/assets/bib/000254574.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K. Burnecki</b> and A. Rogalska.
+ Tempered processes in modelling of single-particle tracking
+  experiments.
+ <em>Mathematica Applicanda</em>, 52(1):27-84, 2024.
+[&nbsp; 
+<a href="https://doi.org/10.14708/ma.v52i1.7247">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000254568, title={Tempered processes in modelling of single-particle tracking experiments}, volume={52}, ISSN={1730-2668}, url={http://dx.doi.org/10.14708/ma.v52i1.7247}, DOI={10.14708/ma.v52i1.7247}, number={1}, journal={Mathematica Applicanda}, publisher={Polish Mathematical Society}, author={Burnecki, Krzysztof and Rogalska, Aleksandra}, year={2024}, month=Nov }</code></pre><a href="{{ '/assets/bib/000254568.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A. Pacheco-Pozo, M. Balcerek, A. Wyłomańska, <b>K.
+  Burnecki</b>, I.M. Sokolov, and D. Krapf.
+ Langevin equation in heterogeneous landscapes: how to choose the
+  interpretation.
+ <em>Physical Review Letters</em>, 133(6):1-7, 2024.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevLett.133.067102">DOI</a>&nbsp;| 
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.067102">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000249487, title={Langevin Equation in Heterogeneous Landscapes: How to Choose the Interpretation}, volume={133}, ISSN={1079-7114}, url={http://dx.doi.org/10.1103/PhysRevLett.133.067102}, DOI={10.1103/physrevlett.133.067102}, number={6}, journal={Physical Review Letters}, publisher={American Physical Society (APS)}, author={Pacheco-Pozo, Adrian and Balcerek, Michał and Wyłomanska, Agnieszka and Burnecki, Krzysztof and Sokolov, Igor M. and Krapf, Diego}, year={2024}, month=Aug }</code></pre><a href="{{ '/assets/bib/000249487.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K. Burnecki</b>, M.A. Teuerle, and M. Zdeb.
+ Pricing of insurance-linked securities: a multi-peril approach.
+ <em>Journal of Mathematics in Industry</em>, 14:1-17, 2024.
+[&nbsp; 
+<a href="https://doi.org/10.1186/s13362-024-00154-9">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000249405, title={Pricing of insurance-linked securities: a multi-peril approach}, volume={14}, ISSN={2190-5983}, url={http://dx.doi.org/10.1186/s13362-024-00154-9}, DOI={10.1186/s13362-024-00154-9}, number={1}, journal={Journal of Mathematics in Industry}, publisher={Springer Science and Business Media LLC}, author={Burnecki, Krzysztof and Teuerle, Marek A. and Zdeb, Martyna}, year={2024}, month=July }</code></pre><a href="{{ '/assets/bib/000249405.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M. Balcerek, A. Wyłomańska, <b>K. Burnecki</b>, R. Metzler, and
+  D. Krapf.
+ Modelling intermittent anomalous diffusion with switching fractional
+  brownian motion.
+ <em>New Journal of Physics</em>, 25(10):1-14, 2023.
+[&nbsp; 
+<a href="https://doi.org/10.1088/1367-2630/ad00d7">DOI</a>&nbsp;| 
+<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ad00d7">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000242036, title={Modelling intermittent anomalous diffusion with switching fractional Brownian motion}, volume={25}, ISSN={1367-2630}, url={http://dx.doi.org/10.1088/1367-2630/ad00d7}, DOI={10.1088/1367-2630/ad00d7}, number={10}, journal={New Journal of Physics}, publisher={IOP Publishing}, author={Balcerek, Michał and Wyłomańska, Agnieszka and Burnecki, Krzysztof and Metzler, Ralf and Krapf, Diego}, year={2023}, month=Oct, pages={103031} }</code></pre><a href="{{ '/assets/bib/000242036.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+W. Wang, M. Balcerek, <b>K. Burnecki</b>, A. Chechkin, S.
+  Janušonis, J. Ślęzak, T. Vojta, A. Wyłomańska, and R.
+  Metzler.
+ Memory-multi-fractional Brownian motion with continuous correlations.
+ <em>Physical Review Research</em>, 5(3):1-8, 2023.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevResearch.5.L032025">DOI</a>&nbsp;| 
+<a href="https://link.aps.org/doi/10.1103/PhysRevResearch.5.L032025">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000240912, title={Memory-multi-fractional Brownian motion with continuous correlations}, volume={5}, ISSN={2643-1564}, url={http://dx.doi.org/10.1103/PhysRevResearch.5.L032025}, DOI={10.1103/physrevresearch.5.l032025}, number={3}, journal={Physical Review Research}, publisher={American Physical Society (APS)}, author={Wang, Wei and Balcerek, Michał and Burnecki, Krzysztof and Chechkin, Aleksei V. and Janušonis, Skirmantas and Ślęzak, Jakub and Vojta, Thomas and Wyłomańska, Agnieszka and Metzler, Ralf}, year={2023}, month=Aug }</code></pre><a href="{{ '/assets/bib/000240912.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M. Balcerek, <b>K. Burnecki</b>, S. Thapa, A. Wyłomańska,
+  and A. Chechkin.
+ Fractional Brownian motion with random Hurst exponent: Accelerating
+  diffusion and persistence transitions.
+ <em>Chaos</em>, 32(9):1-16, 2022.
+[&nbsp; 
+<a href="https://doi.org/10.1063/5.0101913">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000236726, title={Fractional Brownian motion with random Hurst exponent: Accelerating diffusion and persistence transitions}, volume={32}, ISSN={1089-7682}, url={http://dx.doi.org/10.1063/5.0101913}, DOI={10.1063/5.0101913}, number={9}, journal={Chaos: An Interdisciplinary Journal of Nonlinear Science}, publisher={AIP Publishing}, author={Balcerek, Michał and Burnecki, Krzysztof and Thapa, Samudrajit and Wyłomańska, Agnieszka and Chechkin, Aleksei}, year={2022}, month=Sept }</code></pre><a href="{{ '/assets/bib/000236726.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b> K. Burnecki</b>, M.&nbsp;A. Teuerle, and A. Wilkowska.
+ Diffusion approximations of the ruin probability for the
+  insurer-reinsurer model driven by a renewal process.
+ <em>Risks</em>, 10(6):1-16, 2022.
+[&nbsp; 
+<a href="https://doi.org/10.3390/risks10060129">DOI</a>&nbsp;| 
+<a href="https://www.mdpi.com/2227-9091/10/6/129">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000235879,
+  author = {Burnecki, Krzysztof and Teuerle, Marek A. and Wilkowska, Aleksandra},
+  title = {Diffusion approximations of the ruin probability for the insurer-reinsurer model driven by a renewal process
+},
+  year = {2022},
+  journal = {Risks},
+  volume = {10},
+  number = {6},
+  pages = {1-16},
+  url = {https://www.mdpi.com/2227-9091/10/6/129},
+  doi = {10.3390/risks10060129}
+}</code></pre><a href="{{ '/assets/bib/000235879.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+F. Sabzikar, J.&nbsp;S. Kabala, and <b>K. Burnecki</b>.
+ Tempered fractionally integrated process with stable noise as a
+  transient anomalous diffusion model.
+ <em>Journal of Physics. A, Mathematical and Theoretical</em>,
+  55(17):1-27, 2022.
+[&nbsp; 
+<a href="https://doi.org/10.1088/1751-8121/ac5b92">DOI</a>&nbsp;| 
+<a href="https://iopscience.iop.org/article/10.1088/1751-8121/ac5b92">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000235392,
+  author = {Sabzikar, Farzad and Kabala, Jinu Susan and Burnecki, Krzysztof},
+  title = {Tempered fractionally integrated process with stable noise as a transient anomalous diffusion model
+},
+  year = {2022},
+  journal = {Journal of Physics. A, Mathematical and Theoretical},
+  volume = {55},
+  number = {17},
+  pages = {1-27},
+  url = {https://iopscience.iop.org/article/10.1088/1751-8121/ac5b92},
+  doi = {10.1088/1751-8121/ac5b92}
+}</code></pre><a href="{{ '/assets/bib/000235392.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;B. Janczura, <b>K. Burnecki</b>, M. Muszkieta, A.
+  Stanislavsky, and A. Weron.
+ Classification of random trajectories based on the fractional Lévy
+  stable motion.
+ <em>Chaos, Solitons and Fractals</em>, 154:1-9, 2022.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.chaos.2021.111606">DOI</a>&nbsp;| 
+<a href="https://www.sciencedirect.com/science/article/pii/S0960077921009607">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000233830,
+  author = {Janczura, Joanna B. and Burnecki, Krzysztof and Muszkieta, Monika and Stanislavsky, Aleksander and Weron, Aleksander},
+  title = {Classification of random trajectories based on the fractional Lévy stable motion
+},
+  year = {2022},
+  journal = {Chaos, Solitons and Fractals},
+  volume = {154},
+  pages = {1-9},
+  url = {https://www.sciencedirect.com/science/article/pii/S0960077921009607},
+  doi = {10.1016/j.chaos.2021.111606}
+}</code></pre><a href="{{ '/assets/bib/000233830.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J. S.&nbsp;Kabala, <b>K.&nbsp;Burnecki</b>, and F.&nbsp;Sabzikar.
+ Tempered linear and non-linear time series models and their
+  application to heavy-tailed solar flare data.
+ <em>Chaos: An Interdisciplinary Journal of Nonlinear Science</em>,
+  31(11):113124, 2021.
+[&nbsp; 
+<a href="https://doi.org/10.1063/5.0061754">DOI</a>&nbsp;| 
+<a href="https://doi.org/10.1063/5.0061754">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{doi:10.1063/5.0061754, title={Tempered linear and non-linear time series models and their application to heavy-tailed solar flare data}, volume={31}, ISSN={1089-7682}, url={http://dx.doi.org/10.1063/5.0061754}, DOI={10.1063/5.0061754}, number={11}, journal={Chaos: An Interdisciplinary Journal of Nonlinear Science}, publisher={AIP Publishing}, author={Susan Kabala, Jinu and Burnecki, Krzysztof and Sabzikar, Farzad}, year={2021}, month=Nov }</code></pre><a href="{{ '/assets/bib/doi_10_1063_5_0061754.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M.&nbsp;Balcerek, <b>K.&nbsp;Burnecki</b>, G.&nbsp;Sikora, and A.&nbsp;Wyłomańska.
+ Discriminating Gaussian processes via quadratic form statistics.
+ <em>Chaos</em>, 31(6):1-16, 2021.
+[&nbsp; 
+<a href="https://doi.org/10.1063/5.0044878">DOI</a>&nbsp;| 
+<a href="https://aip.scitation.org/doi/10.1063/5.0044878">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000231439,
+  author = {Balcerek, Michał and Burnecki, Krzysztof and Sikora, Grzegorz and Wyłomańska, Agnieszka},
+  title = {Discriminating Gaussian processes via quadratic form statistics
+},
+  year = {2021},
+  journal = {Chaos},
+  volume = {31},
+  number = {6},
+  pages = {1-16},
+  url = {https://aip.scitation.org/doi/10.1063/5.0044878},
+  doi = {10.1063/5.0044878}
+}</code></pre><a href="{{ '/assets/bib/000231439.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;B. Janczura, M.&nbsp;Balcerek, <b>K.&nbsp;Burnecki</b>, A.&nbsp;Sabri, M.&nbsp;Weiß, and D.&nbsp;Krapf.
+ Identifying heterogeneous diffusion states in the cytoplasm by a
+  hidden Markov model.
+ <em>New Journal of Physics</em>, 23:1-11, 2021.
+[&nbsp; 
+<a href="https://doi.org/10.1088/1367-2630/abf204">DOI</a>&nbsp;| 
+<a href="https://iopscience.iop.org/article/10.1088/1367-2630/abf204">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000231123,
+  author = {Janczura, Joanna B. and Balcerek, Michał and Burnecki, Krzysztof and Sabri, Adal and Weiß, Matthias and Krapf, Diego},
+  title = {Identifying heterogeneous diffusion states in the cytoplasm by a hidden Markov model
+},
+  year = {2021},
+  journal = {New Journal of Physics},
+  volume = {23},
+  pages = {1-11},
+  url = {https://iopscience.iop.org/article/10.1088/1367-2630/abf204},
+  doi = {10.1088/1367-2630/abf204}
+}</code></pre><a href="{{ '/assets/bib/000231123.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, M.&nbsp;A. Teuerle, and A.&nbsp;Wilkowska.
+ Ruin probability for the insurer-reinsurer model for exponential
+  claims: a probabilistic approach.
+ <em>Risks</em>, 9(5):1-10, 2021.
+[&nbsp; 
+<a href="https://doi.org/10.3390/risks9050086">DOI</a>&nbsp;| 
+<a href="https://www.mdpi.com/2227-9091/9/5/86">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000231008,
+  author = {Burnecki, Krzysztof and Teuerle, Marek A. and Wilkowska, Aleksandra},
+  title = {Ruin probability for the insurer-reinsurer model for exponential claims: a probabilistic approach
+},
+  year = {2021},
+  journal = {Risks},
+  volume = {9},
+  number = {5},
+  pages = {1-10},
+  url = {https://www.mdpi.com/2227-9091/9/5/86},
+  doi = {10.3390/risks9050086}
+}</code></pre><a href="{{ '/assets/bib/000231008.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M.&nbsp;Balcerek and <b>K.&nbsp;Burnecki</b>.
+ Testing of multifractional Brownian motion.
+ <em>Entropy</em>, 22(12):1-17, 2020.
+[&nbsp; 
+<a href="https://doi.org/10.3390/e22121403">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000229327,
+  author = {Balcerek, Michał and Burnecki, Krzysztof},
+  title = {Testing of multifractional {B}rownian motion
+},
+  year = {2020},
+  journal = {Entropy},
+  volume = {22},
+  number = {12},
+  pages = {1-17},
+  doi = {10.3390/e22121403}
+}</code></pre><a href="{{ '/assets/bib/000229327.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A.&nbsp;Stanislavsky, W.&nbsp;Nitka, M.&nbsp;Małek, <b>K.&nbsp;Burnecki</b>, and J.&nbsp;B. Janczura.
+ Prediction performance of Hidden Markov modelling for solar
+  flares.
+ <em>Journal of Atmospheric and Solar-Terrestrial Physics</em>, 208:1-7,
+  2020.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.jastp.2020.105407">DOI</a>&nbsp;| 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1364682620302145">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000227454,
+  author = {Stanislavsky, Aleksander and Nitka, Weronika and Małek, Marta and Burnecki, Krzysztof and Janczura, Joanna B.},
+  title = {Prediction performance of {H}idden {M}arkov modelling for solar flares
+},
+  year = {2020},
+  journal = {Journal of Atmospheric and Solar-Terrestrial Physics},
+  volume = {208},
+  pages = {1-7},
+  url = {https://www.sciencedirect.com/science/article/abs/pii/S1364682620302145},
+  doi = {10.1016/j.jastp.2020.105407}
+}</code></pre><a href="{{ '/assets/bib/000227454.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A.&nbsp;Wyłomańska, D.&nbsp;R. Iskander, and <b>K.&nbsp;Burnecki</b>.
+ Omnibus test for normality based on the edgeworth expansion.
+ <em>PLoS ONE</em>, 15(6):1-36, 2020.
+[&nbsp; 
+<a href="https://doi.org/10.1371/journal.pone.0233901">DOI</a>&nbsp;| 
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233901">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000226832,
+  author = {Wyłomańska, Agnieszka and Iskander, Daoud R. and Burnecki, Krzysztof},
+  title = {Omnibus test for normality based on the Edgeworth expansion
+},
+  year = {2020},
+  journal = {PLoS ONE},
+  volume = {15},
+  number = {6},
+  pages = {1-36},
+  url = {https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0233901},
+  doi = {10.1371/journal.pone.0233901}
+}</code></pre><a href="{{ '/assets/bib/000226832.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M.&nbsp;Balcerek and <b>K.&nbsp;Burnecki</b>.
+ Testing of fractional Brownian motion in a noisy environment.
+ <em>Chaos, Solitons and Fractals</em>, 140:1-7, 2020.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.chaos.2020.110097">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000224522,
+  author = {Balcerek, Michał and Burnecki, Krzysztof},
+  title = {Testing of fractional {B}rownian motion in a noisy environment
+},
+  year = {2020},
+  journal = {Chaos, Solitons and Fractals},
+  volume = {140},
+  pages = {1-7},
+  doi = {10.1016/j.chaos.2020.110097}
+}</code></pre><a href="{{ '/assets/bib/000224522.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+W.&nbsp;Nitka and <b>K.&nbsp;Burnecki</b>.
+ Impact of solar activity on precipitation in the United States.
+ <em>Physica. A, Statistical Mechanics and its Applications</em>,
+  527:1-10, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.physa.2019.121387">DOI</a>&nbsp;| 
+<a href="https://www.sciencedirect.com/science/article/pii/S0378437119308076#b38">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000222336,
+  author = {Nitka, Weronika and Burnecki, Krzysztof},
+  title = {Impact of solar activity on precipitation in the {U}nited {S}tates
+},
+  year = {2019},
+  journal = {Physica. A, Statistical Mechanics and its Applications},
+  volume = {527},
+  pages = {1-10},
+  url = {https://www.sciencedirect.com/science/article/pii/S0378437119308076#b38},
+  doi = {10.1016/j.physa.2019.121387}
+}</code></pre><a href="{{ '/assets/bib/000222336.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, M.&nbsp;N. Giuricich, and Z.&nbsp;Palmowski.
+ Valuation of contingent convertible catastrophe bonds - the case for
+  equity conversion.
+ <em>Insurance. Mathematics and Economics</em>, 88:238-254, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.insmatheco.2019.07.006">DOI</a>&nbsp;| 
+<a href="https://www.sciencedirect.com/science/article/pii/S0167668718301598?via%3Dihub">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000222170,
+  author = {Burnecki, Krzysztof and Giuricich, Mario Nicolo and Palmowski, Zbigniew},
+  title = {Valuation of contingent convertible catastrophe bonds - the case for equity conversion
+},
+  year = {2019},
+  journal = {Insurance. Mathematics and Economics},
+  volume = {88},
+  pages = {238-254},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167668718301598?via%3Dihub},
+  doi = {10.1016/j.insmatheco.2019.07.006}
+}</code></pre><a href="{{ '/assets/bib/000222170.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;Ślęzak, <b>K.&nbsp;Burnecki</b>, and R.&nbsp;Metzler.
+ Random coefficient autoregressive processes describe Brownian yet
+  non-Gaussian diffusion in heterogeneous systems.
+ <em>New Journal of Physics</em>, 21:1-18, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.1088/1367-2630/ab3366">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000222065,
+  author = {Ślęzak, Jakub and Burnecki, Krzysztof and Metzler, Ralf},
+  title = {Random coefficient autoregressive processes describe {B}rownian yet non-{G}aussian diffusion in heterogeneous systems
+},
+  year = {2019},
+  journal = {New Journal of Physics},
+  volume = {21},
+  pages = {1-18},
+  doi = {10.1088/1367-2630/ab3366}
+}</code></pre><a href="{{ '/assets/bib/000222065.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, M.&nbsp;A. Teuerle, and A.&nbsp;Wilkowska.
+ De Vylder type approximation of the ruin probability for the
+  insurer-reinsurer model.
+ <em>Mathematica Applicanda</em>, 47(1):5-24, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.14708/ma.v47i1.6417">DOI</a>&nbsp;| 
+<a href="https://wydawnictwa.ptm.org.pl/index.php/matematyka-stosowana/article/view/6417">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000222037,
+  author = {Burnecki, Krzysztof and Teuerle, Marek A. and Wilkowska, Aleksandra},
+  title = {De {V}ylder type approximation of the ruin probability for the insurer-reinsurer model
+},
+  year = {2019},
+  journal = {Mathematica Applicanda},
+  volume = {47},
+  number = {1},
+  pages = {5-24},
+  url = {https://wydawnictwa.ptm.org.pl/index.php/matematyka-stosowana/article/view/6417},
+  doi = {10.14708/ma.v47i1.6417}
+}</code></pre><a href="{{ '/assets/bib/000222037.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M.&nbsp;N. Giuricich and <b>K.&nbsp;Burnecki</b>.
+ Modelling of left-truncated heavy-tailed data with application to
+  catastrophe bond pricing.
+ <em>Physica. A, Statistical Mechanics and its Applications</em>,
+  525(1):498-513, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.physa.2019.03.073">DOI</a>&nbsp;| 
+<a href="https://www.sciencedirect.com/science/article/pii/S0378437119303085">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000220418,
+  author = {Giuricich, Mario Nicolo and Burnecki, Krzysztof},
+  title = {Modelling of left-truncated heavy-tailed data with application to catastrophe bond pricing
+},
+  year = {2019},
+  journal = {Physica. A, Statistical Mechanics and its Applications},
+  volume = {525},
+  number = {1},
+  pages = {498-513},
+  doi = {10.1016/j.physa.2019.03.073},
+  url = {https://www.sciencedirect.com/science/article/pii/S0378437119303085}
+}</code></pre><a href="{{ '/assets/bib/000220418.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A.&nbsp;Stanislavsky, <b>K.&nbsp;Burnecki</b>, J.&nbsp;B. Janczura, K.&nbsp;Niczyj, and A.&nbsp;Weron.
+ Solar X-ray variability in terms of a fractional heteroskedastic
+  time series model.
+ <em>Monthly Notices of the Royal Astronomical Society</em>,
+  485(3):3970–3980, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.1093/mnras/stz656">DOI</a>&nbsp;| 
+<a href="https://academic.oup.com/mnras/article-abstract/485/3/3970/5371166">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000220380,
+  author = {Stanislavsky, Aleksander and Burnecki, Krzysztof and Janczura, Joanna B. and Niczyj, Karol and Weron, Aleksander},
+  title = {Solar {X}-ray variability in terms of a fractional heteroskedastic time series model
+},
+  year = {2019},
+  journal = {Monthly Notices of the Royal Astronomical Society},
+  volume = {485},
+  number = {3},
+  pages = {3970–3980},
+  doi = {10.1093/mnras/stz656},
+  url = {https://academic.oup.com/mnras/article-abstract/485/3/3970/5371166}
+}</code></pre><a href="{{ '/assets/bib/000220380.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M.&nbsp;Balcerek, H.&nbsp;Loch-Olszewska, J.&nbsp;A. Torrena-Pina, M.&nbsp;F. Garcia-Parajo,
+  A.&nbsp;Weron, C.&nbsp;Manzo, and <b>K.&nbsp;Burnecki</b>.
+ Inhomogeneous membrane receptor diffusion explained by a fractional
+  heteroscedastic time series model.
+ <em>Physical Chemistry Chemical Physics</em>, 21(6):3114-3121, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.1039/C8CP06781C">DOI</a>&nbsp;| 
+<a href="https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp06781c/unauth#!divAbstract">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000219391,
+  author = {Balcerek, Michał and Loch-Olszewska, Hanna and Torrena-Pina, Juan A. and Garcia-Parajo, Maria F. and Weron, Aleksander and Manzo, Carlo and Burnecki, Krzysztof},
+  title = {Inhomogeneous membrane receptor diffusion explained by a fractional heteroscedastic time series model
+},
+  year = {2019},
+  journal = {Physical Chemistry Chemical Physics},
+  volume = {21},
+  number = {6},
+  pages = {3114-3121},
+  doi = {10.1039/C8CP06781C},
+  url = {https://pubs.rsc.org/en/content/articlelanding/2019/cp/c8cp06781c/unauth#!divAbstract},
+  doi = {10.1039/C8CP06781C}
+}</code></pre><a href="{{ '/assets/bib/000219391.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, G.&nbsp;Sikora, A.&nbsp;Weron, M.&nbsp;M. Tamkun, and D.&nbsp;Krapf.
+ Identifying diffusive motions in single-particle trajectories on the
+  plasma membrane via fractional time-series models.
+ <em>Physical Review E</em>, 99(1):1-10, 2019.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevE.99.012101">DOI</a>&nbsp;| 
+<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012101">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000219068,
+  author = {Burnecki, Krzysztof and Sikora, Grzegorz and Weron, Aleksander and Tamkun, Michael M. and Krapf, Diego},
+  title = {Identifying diffusive motions in single-particle trajectories on the plasma membrane via fractional time-series models
+},
+  year = {2019},
+  journal = {Physical Review E},
+  volume = {99},
+  number = {1},
+  pages = {1-10},
+  url = {https://journals.aps.org/pre/abstract/10.1103/PhysRevE.99.012101},
+  doi = {10.1103/PhysRevE.99.012101}
+}</code></pre><a href="{{ '/assets/bib/000219068.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;R. Gajda, G.&nbsp;Bartnicki, and <b>K.&nbsp;Burnecki</b>.
+ Modeling of water usage by means of ARFIMA-GARCH processes.
+ <em>Physica. A, Statistical Mechanics and its Applications</em>,
+  512:644-657, 2018.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.physa.2018.08.134">DOI</a>&nbsp;| 
+<a href="https://www.sciencedirect.com/science/article/pii/S037843711831077X">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000218550,
+  author = {Gajda, Janusz R. and Bartnicki, Grzegorz and Burnecki, Krzysztof},
+  title = {Modeling of water usage by means of {ARFIMA-GARCH} processes
+},
+  year = {2018},
+  journal = {Physica. A, Statistical Mechanics and its Applications},
+  volume = {512},
+  pages = {644-657},
+  doi = {10.1016/j.physa.2018.08.134},
+  url = {https://www.sciencedirect.com/science/article/pii/S037843711831077X}
+}</code></pre><a href="{{ '/assets/bib/000218550.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and M.&nbsp;N. Giuricich.
+ Stable weak approximation at work in index-linked catastrophe bond
+  pricing.
+ <em>Risks</em>, 5(4):1-19, 2017.
+[&nbsp; 
+<a href="https://doi.org/10.3390/risks5040064">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000213280,
+  author = {Burnecki, Krzysztof and Giuricich, Mario Nicolo},
+  title = {Stable weak approximation at work in index-linked catastrophe bond pricing
+},
+  year = {2017},
+  journal = {Risks },
+  volume = {5},
+  number = {4},
+  pages = {1-19},
+  doi = {10.3390/risks5040064}
+}</code></pre><a href="{{ '/assets/bib/000213280.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and G.&nbsp;Sikora.
+ Identification and validation of stable ARFIMA processes with
+  application to UMTS data.
+ <em>Chaos, Solitons and Fractals</em>, 102:456-466, 2017.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.chaos.2017.03.059">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000213170,
+  author = {Burnecki, Krzysztof and Sikora, Grzegorz},
+  title = {Identification and validation of stable {ARFIMA} processes with application to {UMTS} data
+},
+  year = {2017},
+  journal = {Chaos, Solitons and Fractals},
+  volume = {102},
+  pages = {456-466},
+  doi = {10.1016/j.chaos.2017.03.059}
+}</code></pre><a href="{{ '/assets/bib/000213170.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+T.&nbsp;Sungkaworn, M.-L. Jobin, <b>K.&nbsp;Burnecki</b>, A.&nbsp;Weron, M.&nbsp;J. Lohse, and
+  D.&nbsp;Calebiro.
+ Single-molecule imaging reveals receptor-G protein interactions at
+  cell surface hot spots.
+ <em><b>Nature</b></em>, 550(7677):543-547, 2017.
+[&nbsp; 
+<a href="https://doi.org/10.1038/nature24264">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000212360,
+  author = {Sungkaworn, Titiwat and Jobin, Marie-Lise and Burnecki, Krzysztof and Weron, Aleksander and Lohse, Martin J. and Calebiro, Davide},
+  title = {Single-molecule imaging reveals receptor-{G} protein interactions at cell surface hot spots
+},
+  year = {2017},
+  journal = {Nature},
+  volume = {550},
+  number = {7677},
+  pages = {543-547},
+  doi = {10.1038/nature24264}
+}</code></pre><a href="{{ '/assets/bib/000212360.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+G.&nbsp;Sikora, E.&nbsp;Kepten, A.&nbsp;Weron, M.&nbsp;Balcerek, and <b>K.&nbsp;Burnecki</b>.
+ An efficient algorithm for extracting the magnitude of the
+  measurement error for fractional dynamics.
+ <em>Physical Chemistry Chemical Physics</em>, 19(39):26566-26581, 2017.
+[&nbsp; 
+<a href="https://doi.org/10.1039/c7cp04464j">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000211126,
+  author = {Sikora, Grzegorz and Kepten, Eldad and Weron, Aleksander and Balcerek, Michał and Burnecki, Krzysztof},
+  title = {An efficient algorithm for extracting the magnitude of the measurement error for fractional dynamics
+},
+  year = {2017},
+  journal = {Physical Chemistry Chemical Physics},
+  volume = {19},
+  number = {39},
+  pages = {26566-26581},
+  doi = {10.1039/c7cp04464j}
+}</code></pre><a href="{{ '/assets/bib/000211126.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A.&nbsp;Weron, <b>K.&nbsp;Burnecki</b>, E.&nbsp;J. Akin, L.&nbsp;Sole, M.&nbsp;Balcerek, M.&nbsp;M. Tamkun, and
+  D.&nbsp;Krapf.
+ Ergodicity breaking on the neuronal surface emerges from random
+  switching between diffusive states.
+ <em>Scientific Reports</em>, 7:1-10, 2017.
+[&nbsp; 
+<a href="https://doi.org/10.1038/s41598-017-05911-y">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000210510,
+  author = {Weron, Aleksander and Burnecki, Krzysztof and Akin, Elizabeth J. and Sole, Laura and Balcerek, Michał and Tamkun, Michael M. and Krapf, Diego},
+  title = {Ergodicity breaking on the neuronal surface emerges from random switching between diffusive states
+},
+  year = {2017},
+  journal = {Scientific Reports },
+  volume = {7},
+  pages = {1-10},
+  doi = {10.1038/s41598-017-05911-y}
+}</code></pre><a href="{{ '/assets/bib/000210510.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+G.&nbsp;Sikora, <b>K.&nbsp;Burnecki</b>, and A.&nbsp;Wyłomańska.
+ Mean-squared-displacement statistical test for fractional Brownian
+  motion.
+ <em>Physical Review E</em>, 95(3):1-5, 2017.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevE.95.032110">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000208612,
+  author = {Sikora, Grzegorz and Burnecki, Krzysztof and Wyłomańska, Agnieszka},
+  title = {Mean-squared-displacement statistical test for fractional {B}rownian motion
+},
+  year = {2017},
+  journal = {Physical Review E},
+  volume = {95},
+  number = {3},
+  pages = {1-5},
+  doi = {10.1103/PhysRevE.95.032110}
+}</code></pre><a href="{{ '/assets/bib/000208612.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, A.&nbsp;Wyłomańska, and A.&nbsp;Chechkin.
+ Discriminating between light- and heavy-tailed distributions with
+  limit theorem.
+ <em>PLoS ONE</em>, 10(12):1-23, 2015.
+[&nbsp; 
+<a href="https://doi.org/10.1371/journal.pone.0145604">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000202497,
+  author = {Burnecki, Krzysztof and Wyłomańska, Agnieszka and Chechkin, Aleksei},
+  title = {Discriminating between light- and heavy-tailed distributions with limit theorem
+},
+  year = {2015},
+  journal = {PLoS ONE },
+  volume = {10},
+  number = {12},
+  pages = {1-23},
+  doi = {10.1371/journal.pone.0145604}
+}</code></pre><a href="{{ '/assets/bib/000202497.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+E.&nbsp;Kepten, A.&nbsp;Weron, I.&nbsp;Bronshtein, <b>K.&nbsp;Burnecki</b>, and Y.&nbsp;Garini.
+ Uniform contraction-expansion description of relative centromere and
+  telomere motion.
+ <em>Biophysical Journal</em>, 109(10):1454 - 1462, 2015.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.bpj.2015.07.031">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000201816,
+  author = {Kepten, Eldad and Weron, Aleksander and Bronshtein, Irena and Burnecki, Krzysztof and Garini, Yuval},
+  title = {Uniform contraction-expansion description of relative centromere and telomere motion
+},
+  year = {2015},
+  journal = {Biophysical Journal},
+  volume = {109},
+  number = {10},
+  pages = {1454 - 1462},
+  doi = {10.1016/j.bpj.2015.07.031}
+}</code></pre><a href="{{ '/assets/bib/000201816.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, E.&nbsp;Kepten, Y.&nbsp;Garini, G.&nbsp;Sikora, and A.&nbsp;Weron.
+ Estimating the anomalous diffusion exponent for single particle
+  tracking data with measurement errors - an alternative approach.
+ <em>Scientific Reports</em>, 5:1-11, 2015.
+[&nbsp; 
+<a href="https://doi.org/10.1038/srep11306">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000198904,
+  author = {Burnecki, Krzysztof and Kepten, Eldad and Garini, Yuval and Sikora, Grzegorz and Weron, Aleksander},
+  title = {Estimating the anomalous diffusion exponent for single particle tracking data with measurement errors - an alternative approach
+},
+  year = {2015},
+  journal = {Scientific Reports },
+  volume = {5},
+  pages = {1-11},
+  doi = {10.1038/srep11306}
+}</code></pre><a href="{{ '/assets/bib/000198904.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+E.&nbsp;Kepten, A.&nbsp;Weron, G.&nbsp;Sikora, <b>K.&nbsp;Burnecki</b>, and Y.&nbsp;Garini.
+ Guidelines for the fitting of anomalous diffusion mean square
+  displacement graphs from single particle tracking experiments.
+ <em>PLoS ONE</em>, 10(2):1-10, 2015.
+[&nbsp; 
+<a href="https://doi.org/10.1371/journal.pone.0117722">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000197478,
+  author = {Kepten, Eldad and Weron, Aleksander and Sikora, Grzegorz and Burnecki, Krzysztof and Garini, Yuval},
+  title = {Guidelines for the fitting of anomalous diffusion mean square displacement graphs from single particle tracking experiments
+},
+  year = {2015},
+  journal = {PLoS ONE },
+  volume = {10},
+  number = {2},
+  pages = {1-10},
+  doi = {10.1371/journal.pone.0117722}
+}</code></pre><a href="{{ '/assets/bib/000197478.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and A.&nbsp;Weron.
+ Algorithms for testing of fractional dynamics: a practical guide to
+  ARFIMA modelling.
+ <em>Journal of Statistical Mechanics: Theory and Experiment</em>,
+  P10036(10):1-26, 2014.
+[&nbsp; 
+<a href="https://doi.org/10.1088/1742-5468/2014/10/P10036">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000196643,
+  author = {Burnecki, Krzysztof and Weron, Aleksander},
+  title = {Algorithms for testing of fractional dynamics: a practical guide to {ARFIMA} modelling
+},
+  year = {2014},
+  journal = {Journal of Statistical Mechanics: Theory and Experiment },
+  volume = {P10036},
+  number = {10},
+  pages = {1-26},
+  doi = {10.1088/1742-5468/2014/10/P10036}
+}</code></pre><a href="{{ '/assets/bib/000196643.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and G.&nbsp;Sikora.
+ Estimation of FARIMA parameters in the case of negative memory and
+  stable noise.
+ <em>IEEE Transactions on Signal Processing</em>, 61(11):2825-2835,
+  2013.
+[&nbsp; 
+<a href="https://doi.org/10.1109/TSP.2013.2253773">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000188815,
+  author = {Burnecki, Krzysztof and Sikora, Grzegorz},
+  title = {Estimation of {FARIMA} parameters in the case of negative memory and stable noise
+},
+  year = {2013},
+  journal = {IEEE Transactions on Signal Processing},
+  volume = {61},
+  number = {11},
+  pages = {2825-2835},
+  doi = {10.1109/TSP.2013.2253773}
+}</code></pre><a href="{{ '/assets/bib/000188815.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, E.&nbsp;Kepten, J.&nbsp;B. Janczura, I.&nbsp;Bronshtein, Y.&nbsp;Garini, and A.&nbsp;Weron.
+ Universal algorithm for identification of fractional Brownian
+  motion. a case of telomere subdiffusion.
+ <em>Biophysical Journal</em>, 103(9):1839-1847, 2012.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.bpj.2012.09.040">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000184082,
+  author = {Burnecki, Krzysztof and Kepten, Eldad and Janczura, Joanna B. and Bronshtein, Irena and Garini, Yuval and Weron, Aleksander},
+  title = {Universal algorithm for identification of fractional {B}rownian motion. A case of telomere subdiffusion
+},
+  year = {2012},
+  journal = {Biophysical Journal},
+  volume = {103},
+  number = {9},
+  pages = {1839-1847},
+  doi = {10.1016/j.bpj.2012.09.040}
+}</code></pre><a href="{{ '/assets/bib/000184082.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, G.&nbsp;Sikora, and A.&nbsp;Weron.
+ Fractional process as a unified model for subdiffusive dynamics in
+  experimental data.
+ <em>Physical Review. E, Statistical Nonlinear and Soft Matter
+  Physics</em>, 86(4):041912-1 - 041912-8, 2012.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevE.86.041912">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000183421,
+  author = {Burnecki, Krzysztof and Sikora, Grzegorz and Weron, Aleksander},
+  title = {Fractional process as a unified model for subdiffusive dynamics in experimental data
+},
+  year = {2012},
+  journal = {Physical Review. E, Statistical Nonlinear and Soft Matter Physics},
+  volume = {86},
+  number = {4},
+  pages = {041912-1 - 041912-8},
+  doi = {10.1103/PhysRevE.86.041912}
+}</code></pre><a href="{{ '/assets/bib/000183421.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>.
+ FARIMA processes with application to biophysical data.
+ <em>Journal of Statistical Mechanics: Theory and Experiment</em>,
+  (5):P05015-1 - P05015-18, 2012.
+[&nbsp; 
+<a href="https://doi.org/10.1088/1742-5468/2012/05/P05015">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000182529,
+  author = {Burnecki, Krzysztof},
+  title = {{FARIMA} processes with application to biophysical data
+},
+  year = {2012},
+  journal = {Journal of Statistical Mechanics: Theory and Experiment },
+  number = {5},
+  pages = {P05015-1 - P05015-18},
+  doi = {10.1088/1742-5468/2012/05/P05015}
+}</code></pre><a href="{{ '/assets/bib/000182529.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, A.&nbsp;Wyłomańska, A.&nbsp;Beletskii, V.&nbsp;Gonchar, and A.&nbsp;Chechkin.
+ Recognition of stable distribution with Lévy index α close to 2.
+ <em>Physical Review. E, Statistical Nonlinear and Soft Matter
+  Physics</em>, 85(5):056711-1 - 056711-8, 2012.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevE.85.056711">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000182211,
+  author = {Burnecki, Krzysztof and Wyłomańska, Agnieszka and Beletskii, Aleksei and Gonchar, Vsevolod and Chechkin, Aleksei},
+  title = {Recognition of stable distribution with {L}évy index α close to 2
+},
+  year = {2012},
+  journal = {Physical Review. E, Statistical Nonlinear and Soft Matter Physics},
+  volume = {85},
+  number = {5},
+  pages = {056711-1 - 056711-8},
+  doi = {10.1103/PhysRevE.85.056711}
+}</code></pre><a href="{{ '/assets/bib/000182211.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+P.&nbsp;Bieńkowski, <b>K.&nbsp;Burnecki</b>, J.&nbsp;B. Janczura, R.&nbsp;Weron, and B.&nbsp;Zubrzak.
+ A new method for automated noise cancellation in electromagnetic
+  field measurement.
+ <em>Journal of Electromagnetic Waves and Applications</em>,
+  26(8/9):1226-1236, 2012.
+[&nbsp; 
+<a href="https://doi.org/10.1080/09205071.2012.710721">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000181753,
+  author = {Bieńkowski, Paweł and Burnecki, Krzysztof and Janczura, Joanna B. and Weron, Rafał and Zubrzak, Bartłomiej},
+  title = {A new method for automated noise cancellation in electromagnetic field measurement
+},
+  year = {2012},
+  journal = {Journal of Electromagnetic Waves and Applications},
+  volume = {26},
+  number = {8/9},
+  pages = {1226-1236},
+  doi = {10.1080/09205071.2012.710721}
+}</code></pre><a href="{{ '/assets/bib/000181753.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, M.&nbsp;Muszkieta, G.&nbsp;Sikora, and A.&nbsp;Weron.
+ Statistical modelling of subdiffusive dynamics in the cytoplasm of
+  living cells: a FARIMA approach.
+ <em>Europhysics Letters</em>, 98(1):10004-p1 - 10004-p6, 2012.
+[&nbsp; 
+<a href="https://doi.org/10.1209/0295-5075/98/10004">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000180183,
+  author = {Burnecki, Krzysztof and Muszkieta, Monika and Sikora, Grzegorz and Weron, Aleksander},
+  title = {Statistical modelling of subdiffusive dynamics in the cytoplasm of living cells: a {FARIMA} approach
+},
+  year = {2012},
+  journal = {Europhysics Letters},
+  volume = {98},
+  number = {1},
+  pages = {10004-p1 - 10004-p6},
+  doi = {10.1209/0295-5075/98/10004}
+}</code></pre><a href="{{ '/assets/bib/000180183.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, J.&nbsp;R. Gajda, and G.&nbsp;Sikora.
+ Stability and lack of memory of the returns of the Hang Seng
+  index.
+ <em>Physica. A, Statistical Mechanics and its Applications</em>,
+  390(18/19):3136-3146, 2011.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.physa.2011.04.025">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000176572,
+  author = {Burnecki, Krzysztof and Gajda, Janusz R. and Sikora, Grzegorz},
+  title = {Stability and lack of memory of the returns of the {H}ang {S}eng index
+},
+  year = {2011},
+  journal = {Physica. A, Statistical Mechanics and its Applications},
+  volume = {390},
+  number = {18/19},
+  pages = {3136-3146},
+  doi = {10.1016/j.physa.2011.04.025}
+}</code></pre><a href="{{ '/assets/bib/000176572.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and A.&nbsp;Weron.
+ Fractional Lévy stable motion can model subdiffusive dynamics.
+ <em>Physical Review. E, Statistical Nonlinear and Soft Matter
+  Physics</em>, 82(2):021130-1 - 021130-8, 2010.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevE.82.021130">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000170418,
+  author = {Burnecki, Krzysztof and Weron, Aleksander},
+  title = {Fractional {L}évy stable motion can model subdiffusive dynamics
+},
+  year = {2010},
+  journal = {Physical Review. E, Statistical Nonlinear and Soft Matter Physics},
+  volume = {82},
+  number = {2},
+  pages = {021130-1 - 021130-8},
+  doi = {10.1103/PhysRevE.82.021130}
+}</code></pre><a href="{{ '/assets/bib/000170418.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+M.&nbsp;Magdziarz, A.&nbsp;Weron, <b>K.&nbsp;Burnecki</b>, and J.&nbsp;Klafter.
+ Fractional Brownian motion versus the continuous-time random walk:
+  A simple test for subdiffusive dynamics.
+ <em>Physical Review Letters</em>, 103(18):180602-1 - 180602-4, 2009.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevLett.103.180602">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000166644,
+  author = {Magdziarz, Marcin and Weron, Aleksander and Burnecki, Krzysztof and Klafter, Joseph},
+  title = {Fractional {B}rownian motion versus the continuous-time random walk: {A} simple test for subdiffusive dynamics
+},
+  year = {2009},
+  journal = {Physical Review Letters},
+  volume = {103},
+  number = {18},
+  pages = {180602-1 - 180602-4},
+  doi = {10.1103/PhysRevLett.103.180602}
+}</code></pre><a href="{{ '/assets/bib/000166644.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, A.&nbsp;Stanislavsky, and K.&nbsp;Weron.
+ Statistical analysis of the maximum energy in solar X-ray flare
+  activity.
+ <em>Acta Physica Polonica B</em>, 40(5):1303-1313, 2009.
+[&nbsp; 
+<a href="http://th-www.if.uj.edu.pl/acta/vol40/pdf/v40p1303.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000163827,
+  author = {Burnecki, Krzysztof and Stanislavsky, Aleksander and Weron, Karina},
+  title = {Statistical analysis of the maximum energy in solar {X}-ray flare activity
+},
+  year = {2009},
+  journal = {Acta Physica Polonica B},
+  volume = {40},
+  number = {5},
+  pages = {1303-1313},
+  url = {http://th-www.if.uj.edu.pl/acta/vol40/pdf/v40p1303.pdf}
+}</code></pre><a href="{{ '/assets/bib/000163827.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A.&nbsp;Stanislavsky, <b>K.&nbsp;Burnecki</b>, M.&nbsp;Magdziarz, A.&nbsp;Weron, and K.&nbsp;Weron.
+ FARIMA modeling of solar flare activity from empirical time series
+  of soft X-ray solar emission.
+ <em>Astrophysical Journal</em>, 693(2):1877-1882, 2009.
+[&nbsp; 
+<a href="https://doi.org/10.1088/0004-637X/693/2/1877">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000162841,
+  author = {Stanislavsky, Aleksander and Burnecki, Krzysztof and Magdziarz, Marcin and Weron, Aleksander and Weron, Karina},
+  title = {{FARIMA} modeling of solar flare activity from empirical time series of soft {X}-ray solar emission
+},
+  year = {2009},
+  journal = {Astrophysical Journal},
+  volume = {693},
+  number = {2},
+  pages = {1877-1882},
+  doi = {10.1088/0004-637X/693/2/1877}
+}</code></pre><a href="{{ '/assets/bib/000162841.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, J.&nbsp;Klafter, M.&nbsp;Magdziarz, and A.&nbsp;Weron.
+ From solar flare time series to fractional dynamics.
+ <em>Physica. A, Statistical Mechanics and its Applications</em>,
+  387(5/6):1077-1087, 2008.
+[&nbsp; 
+<a href="https://doi.org/10.1016/j.physa.2007.10.024">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000161417,
+  author = {Burnecki, Krzysztof and Klafter, Joseph and Magdziarz, Marcin and Weron, Aleksander},
+  title = {From solar flare time series to fractional dynamics
+},
+  year = {2008},
+  journal = {Physica. A, Statistical Mechanics and its Applications},
+  volume = {387},
+  number = {5/6},
+  pages = {1077-1087},
+  doi = {10.1016/j.physa.2007.10.024}
+}</code></pre><a href="{{ '/assets/bib/000161417.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, J.&nbsp;B. Janczura, M.&nbsp;Magdziarz, and A.&nbsp;Weron.
+ Can one see a competition between subdiffusion and L&eacute;vy flights?
+  A case of geometric-stable noise.
+ <em>Acta Physica Polonica B</em>, 39(5):1043-1053, 2008.
+[&nbsp; 
+<a href="http://th-www.if.uj.edu.pl/acta/vol39/pdf/v39p1043.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000161194,
+  author = {Burnecki, Krzysztof and Janczura, Joanna B. and Magdziarz, Marcin and Weron, Aleksander},
+  title = {Can one see a competition between subdiffusion and {L}\&#x27;evy flights? {A} case of geometric-stable noise
+},
+  year = {2008},
+  journal = {Acta Physica Polonica B},
+  volume = {39},
+  number = {5},
+  pages = {1043-1053},
+  url = {http://th-www.if.uj.edu.pl/acta/vol39/pdf/v39p1043.pdf}
+}</code></pre><a href="{{ '/assets/bib/000161194.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A.&nbsp;Chernobai, <b>K.&nbsp;Burnecki</b>, S.&nbsp;Rachev, S.&nbsp;Truck, and R.&nbsp;Weron.
+ Modelling cathastrophe claims with left-truncated severity
+  distributions.
+ <em>Computational Statistics</em>, 21:537-555, 2006.
+[&nbsp; 
+<a href="https://doi.org/10.1007/s00180-006-0011-2">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000149550,
+  author = {Chernobai, Anna and Burnecki, Krzysztof and Rachev, Svetlozar and Truck, Stefan and Weron, Rafał},
+  title = {Modelling cathastrophe claims with left-truncated severity distributions
+},
+  year = {2006},
+  journal = {Computational Statistics},
+  volume = {21},
+  pages = {537-555},
+  doi = {10.1007/s00180-006-0011-2}
+}</code></pre><a href="{{ '/assets/bib/000149550.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+A.&nbsp;Weron, <b>K.&nbsp;Burnecki</b>, S.&nbsp;Mercik, and K.&nbsp;Weron.
+ Complete description of all self-similar models driven by L&eacute;vy
+  stable noise.
+ <em>Physical Review. E, Statistical Nonlinear and Soft Matter
+  Physics</em>, 71(1]):016113-1 - 016113-10, 2005.
+[&nbsp; 
+<a href="https://doi.org/10.1103/PhysRevE.71.016113">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000143877,
+  author = {Weron, Aleksander and Burnecki, Krzysztof and Mercik, Szymon and Weron, Karina},
+  title = {Complete description of all self-similar models driven by {L}\&#x27;evy stable noise
+},
+  year = {2005},
+  journal = {Physical Review. E, Statistical Nonlinear and Soft Matter Physics},
+  volume = {71},
+  number = {1]},
+  pages = {016113-1 - 016113-10},
+  doi = {10.1103/PhysRevE.71.016113}
+}</code></pre><a href="{{ '/assets/bib/000143877.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, P.&nbsp;Miśta, and A.&nbsp;Weron.
+ What is the best approximation of ruin probability in infinite time?
+ <em>Applicationes Mathematicae</em>, 32(2):155-176, 2005.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000143415,
+  author = {Burnecki, Krzysztof and Miśta, Paweł and Weron, Aleksander},
+  title = {What is the best approximation of ruin probability in infinite time?
+},
+  year = {2005},
+  journal = {Applicationes Mathematicae},
+  volume = {32},
+  number = {2},
+  pages = {155-176}
+}</code></pre><a href="{{ '/assets/bib/000143415.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, P.&nbsp;Miśta, and A.&nbsp;Weron.
+ A new gamma type approximation of the ruin probability.
+ <em>Acta Physica Polonica B</em>, 36(5):1473-1483, 2005.
+[&nbsp; 
+<a href="http://www.actaphys.uj.edu.pl/_cur/store/vol36/pdf/v36p1473.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000143414,
+  author = {Burnecki, Krzysztof and Miśta, Paweł and Weron, Aleksander},
+  title = {A new gamma type approximation of the ruin probability
+},
+  year = {2005},
+  journal = {Acta Physica Polonica B},
+  volume = {36},
+  number = {5},
+  pages = {1473-1483},
+  url = {http://www.actaphys.uj.edu.pl/_cur/store/vol36/pdf/v36p1473.pdf}
+}</code></pre><a href="{{ '/assets/bib/000143414.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, A.&nbsp;Marciniuk, and A.&nbsp;Weron.
+ On annuities under random rates of interest with payments varying in
+  arithmetic and geometric progression.
+ <em>Probability and Mathematical Statistics</em>, 24:1-15, 2004.
+[&nbsp; 
+<a href="http://www.math.uni.wroc.pl/~pms/files/24.1/Article/24.1.1.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000142648,
+  author = {Burnecki, Krzysztof and Marciniuk, Agnieszka and Weron, Aleksander},
+  title = {On annuities under random rates of interest with payments varying in arithmetic and geometric progression
+},
+  year = {2004},
+  journal = {Probability and Mathematical Statistics},
+  volume = {24},
+  pages = {1-15},
+  url = {http://www.math.uni.wroc.pl/~pms/files/24.1/Article/24.1.1.pdf}
+}</code></pre><a href="{{ '/assets/bib/000142648.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and A.&nbsp;Weron.
+ Lévy stable processes. From stationary to self-similar dynamics
+  and back. An application to finance.
+ <em>Acta Physica Polonica B</em>, 35(4):1343-1358, 2004.
+[&nbsp; 
+<a href="http://www.actaphys.uj.edu.pl/_cur/store/vol35/pdf/v35p1343.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000138453,
+  author = {Burnecki, Krzysztof and Weron, Aleksander},
+  title = {Lévy stable processes. {F}rom stationary to self-similar dynamics and back. {A}n application to finance
+},
+  year = {2004},
+  journal = {Acta Physica Polonica B},
+  volume = {35},
+  number = {4},
+  pages = {1343-1358},
+  url = {http://www.actaphys.uj.edu.pl/_cur/store/vol35/pdf/v35p1343.pdf}
+}</code></pre><a href="{{ '/assets/bib/000138453.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and G.&nbsp;Kukla.
+ Pricing of zero-coupon and coupon cat bonds.
+ <em>Applicationes Mathematicae</em>, 30(3):315-324, 2003.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000137224,
+  author = {Burnecki, Krzysztof and Kukla, Grzegorz},
+  title = {Pricing of zero-coupon and coupon cat bonds
+},
+  year = {2003},
+  journal = {Applicationes Mathematicae},
+  volume = {30},
+  number = {3},
+  pages = {315-324}
+}</code></pre><a href="{{ '/assets/bib/000137224.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, A.&nbsp;Marciniuk, and A.&nbsp;Weron.
+ Annuities under random rates of interest - revisited.
+ <em>Insurance. Mathematics and Economics</em>, 32(3):457-460, 2003.
+[&nbsp; 
+<a href="https://doi.org/10.1016/S0167-6687(03)00132-X">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000135508,
+  author = {Burnecki, Krzysztof and Marciniuk, Agnieszka and Weron, Aleksander},
+  title = {Annuities under random rates of interest - revisited
+},
+  year = {2003},
+  journal = {Insurance. Mathematics and Economics},
+  volume = {32},
+  number = {3},
+  pages = {457-460},
+  doi = {10.1016/S0167-6687(03)00132-X}
+}</code></pre><a href="{{ '/assets/bib/000135508.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+S.&nbsp;Mercik, K.&nbsp;Weron, <b>K.&nbsp;Burnecki</b>, and A.&nbsp;Weron.
+ Enigma of self-similarity of fractional L&eacute;vy stable motions.
+ <em>Acta Physica Polonica B</em>, 34(7):3773-3791, 2003.
+[&nbsp; 
+<a href="http://www.actaphys.uj.edu.pl/_cur/store/vol34/pdf/v34p3773.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000135323,
+  author = {Mercik, Szymon and Weron, Karina and Burnecki, Krzysztof and Weron, Aleksander},
+  title = {Enigma of self-similarity of fractional {L}\&#x27;evy stable motions
+},
+  year = {2003},
+  journal = {Acta Physica Polonica B},
+  volume = {34},
+  number = {7},
+  pages = {3773-3791},
+  url = {http://www.actaphys.uj.edu.pl/_cur/store/vol34/pdf/v34p3773.pdf}
+}</code></pre><a href="{{ '/assets/bib/000135323.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and G.&nbsp;Kukla.
+ Obligacje katastroficzne. Krajobraz po wojnie.
+ <em>Asekuracja & Re</em>, (1):29-30, 2003.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000002870,
+  author = {Burnecki, Krzysztof and Kukla, Grzegorz},
+  title = {Obligacje katastroficzne. {K}rajobraz po wojnie
+},
+  year = {2003},
+  journal = {Asekuracja &amp; Re},
+  number = {1},
+  pages = {29-30}
+}</code></pre><a href="{{ '/assets/bib/000002870.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and Z.&nbsp;Michna.
+ Simulation of Pickands constant.
+ <em>Probability and Mathematical Statistics</em>, 22:193-199, 2002.
+[&nbsp; 
+<a href="http://www.math.uni.wroc.pl/~pms/files/22.1/Article/22.1.14.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000132784,
+  author = {Burnecki, Krzysztof and Michna, Zbigniew},
+  title = {Simulation of {P}ickands constant
+},
+  year = {2002},
+  journal = {Probability and Mathematical Statistics},
+  volume = {22},
+  pages = {193-199},
+  url = {http://www.math.uni.wroc.pl/~pms/files/22.1/Article/22.1.14.pdf}
+}</code></pre><a href="{{ '/assets/bib/000132784.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and G.&nbsp;Kukla.
+ Instrumenty finansowe a ryzyko pogodowe.
+ <em>Asekuracja & Re</em>, (10):26-27, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000002871,
+  author = {Burnecki, Krzysztof and Kukla, Grzegorz},
+  title = {Instrumenty finanasowe a ryzyko pogodowe
+},
+  year = {2001},
+  journal = {Asekuracja &amp; Re},
+  number = {10},
+  pages = {26-27}
+}</code></pre><a href="{{ '/assets/bib/000002871.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, J.&nbsp;Nowicka-Zagrajek, and A.&nbsp;Weron.
+ Metoda pomiaru ryzyka (wartości zagrożonej - VaR) na rynku
+  energii elektrycznej.
+ <em>Energetyka</em>, (12):743-747, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000135937,
+  author = {Burnecki, Krzysztof and Nowicka-Zagrajek, Joanna and Weron, Aleksander},
+  title = {Metoda pomiaru ryzyka (wartości zagrożonej - {VaR}) na rynku energii elektrycznej
+},
+  year = {2001},
+  journal = {Energetyka},
+  number = {12},
+  pages = {743-747}
+}</code></pre><a href="{{ '/assets/bib/000135937.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;Nowicka-Zagrajek and <b>K.&nbsp;Burnecki</b>.
+ Metody oceny ryzyka ubezpieczeniowego: Cz. 3. Estymacja
+  parametrów rozkładu.
+ <em>Asekuracja & Re</em>, (11):24-25, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000127796,
+  author = {Nowicka-Zagrajek, Joanna and Burnecki, Krzysztof},
+  title = {Metody oceny ryzyka ubezpieczeniowego: {C}z. 3. {E}stymacja parametrów rozkładu
+},
+  year = {2001},
+  journal = {Asekuracja &amp; Re},
+  number = {11},
+  pages = {24-25}
+}</code></pre><a href="{{ '/assets/bib/000127796.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;Nowicka-Zagrajek and <b>K.&nbsp;Burnecki</b>.
+ Statystyczne metody oceny ryzyka ubezpieczeniowego: Cz. 2.
+ <em>Asekuracja & Re</em>, (9):24-25, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000127797,
+  author = {Nowicka-Zagrajek, Joanna and Burnecki, Krzysztof},
+  title = {Statystyczne metody oceny ryzyka ubezpieczeniowego: {C}z. 2
+},
+  year = {2001},
+  journal = {Asekuracja &amp; Re},
+  number = {9},
+  pages = {24-25}
+}</code></pre><a href="{{ '/assets/bib/000127797.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and J.&nbsp;Nowicka-Zagrajek.
+ Analiza umieralności.
+ <em>Asekuracja & Re</em>, (7):29-30, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000127798,
+  author = {Burnecki, Krzysztof and Nowicka-Zagrajek, Joanna},
+  title = {Analiza umieralności
+},
+  year = {2001},
+  journal = {Asekuracja &amp; Re},
+  number = {7},
+  pages = {29-30}
+}</code></pre><a href="{{ '/assets/bib/000127798.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;Nowicka-Zagrajek and <b>K.&nbsp;Burnecki</b>.
+ Statystyczne metody oceny ryzyka ubezpieczeniowego: Cz. 1.
+ <em>Asekuracja & Re</em>, (5):20-21, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000127799,
+  author = {Nowicka-Zagrajek, Joanna and Burnecki, Krzysztof},
+  title = {Statystyczne metody oceny ryzyka ubezpieczeniowego: {C}z. 1
+},
+  year = {2001},
+  journal = {Asekuracja &amp; Re},
+  number = {5},
+  pages = {20-21}
+}</code></pre><a href="{{ '/assets/bib/000127799.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;Nowicka-Zagrajek and <b>K.&nbsp;Burnecki</b>.
+ Tablice trwania życia.
+ <em>Asekuracja & Re</em>, (4):24-25, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000127800,
+  author = {Nowicka-Zagrajek, Joanna and Burnecki, Krzysztof},
+  title = {Tablice trwania życia
+},
+  year = {2001},
+  journal = {Asekuracja &amp; Re},
+  number = {4},
+  pages = {24-25}
+}</code></pre><a href="{{ '/assets/bib/000127800.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and J.&nbsp;Nowicka-Zagrajek.
+ Czy straty mają ogony... czyli rozkłady żądań stosowane w
+  matematyce ubezpieczeń majątkowych.
+ <em>Asekuracja & Re</em>, (3):22-25, 2001.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000127801,
+  author = {Burnecki, Krzysztof and Nowicka-Zagrajek, Joanna},
+  title = {Czy straty mają ogony... czyli rozkłady żądań stosowane w matematyce ubezpieczeń majątkowych
+},
+  year = {2001},
+  journal = {Asekuracja &amp; Re},
+  number = {3},
+  pages = {22-25}
+}</code></pre><a href="{{ '/assets/bib/000127801.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>.
+ Self-similar processes as weak limits of a risk reserve process.
+ <em>Probability and Mathematical Statistics</em>, 20:261-272, 2000.
+[&nbsp; 
+<a href="http://www.math.uni.wroc.pl/~pms/files/20.2/Article/20.2.3.pdf">PDF</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000125864,
+  author = {Burnecki, Krzysztof},
+  title = {Self-similar processes as weak limits of a risk reserve process
+},
+  year = {2000},
+  journal = {Probability and Mathematical Statistics},
+  volume = {20},
+  pages = {261-272},
+  url = {http://www.math.uni.wroc.pl/~pms/files/20.2/Article/20.2.3.pdf}
+}</code></pre><a href="{{ '/assets/bib/000125864.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and G.&nbsp;Kukla.
+ Reasekuracja ryzyk ubezpieczeniowych na rynku kapitałowym.
+  Obligacje katastroficzne.
+ <em>Rynek Terminowy</em>, (4):128-134, 2000.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000123632,
+  author = {Burnecki, Krzysztof and Kukla, Grzegorz},
+  title = {Reasekuracja ryzyk ubezpieczeniowych na rynku kapitałowym. {O}bligacje katastroficzne
+},
+  year = {2000},
+  journal = {Rynek Terminowy},
+  number = {4},
+  pages = {128-134}
+}</code></pre><a href="{{ '/assets/bib/000123632.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, G.&nbsp;Kukla, and R.&nbsp;Weron.
+ Property insurance loss distributions.
+ <em>Physica. A, Statistical Mechanics and its Applications</em>,
+  287(1/2):269-278, 2000.
+[&nbsp; 
+<a href="https://doi.org/10.1016/S0378-4371(00)00453-2">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000123631,
+  author = {Burnecki, Krzysztof and Kukla, Grzegorz and Weron, Rafał},
+  title = {Property insurance loss distributions
+},
+  year = {2000},
+  journal = {Physica. A, Statistical Mechanics and its Applications},
+  volume = {287},
+  number = {1/2},
+  pages = {269-278},
+  doi = {10.1016/S0378-4371(00)00453-2}
+}</code></pre><a href="{{ '/assets/bib/000123631.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="article">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, M.&nbsp;Maejima, and A.&nbsp;Weron.
+ The Lamperti transformation for self-similar processes.
+ <em>Yokohama Mathematical Journal</em>, 44:25-42, 1997.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@article{000098736,
+  author = {Burnecki, Krzysztof and Maejima, Makoto and Weron, Aleksander},
+  title = {The {L}amperti transformation for self-similar processes
+},
+  year = {1997},
+  journal = {Yokohama Mathematical Journal},
+  volume = {44},
+  pages = {25-42}
+}</code></pre><a href="{{ '/assets/bib/000098736.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr></table><h2>Book chapters</h2><table><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, M.&nbsp;Magdziarz, and A.&nbsp;Weron.
+ Identification and validation of fractional subdiffusion dynamics.
+ In J.&nbsp;Klafter, S.&nbsp;C. Lim, and R.&nbsp;Metzler, editors, <em>Fractional
+  dynamics: recent advances</em>, pages 331-351. World Scientific, Singapore [i
+  in.], 2012.
+[&nbsp; 
+<a href="https://doi.org/10.1142/9789814340595_0014">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000179560,
+  author = {Burnecki, Krzysztof and Magdziarz, Marcin and Weron, Aleksander},
+  title = {Identification and validation of fractional subdiffusion dynamics
+},
+  booktitle = {Fractional dynamics: recent advances},
+  editor = {Klafter, Joseph and  S. C. Lim and  Ralf Metzler},
+  address = {Singapore [i in.]},
+  publisher = {World Scientific},
+  pages = {331-351},
+  isbn = {9789814340588},
+  year = {2012},
+  doi = {10.1142/9789814340595_0014}
+}</code></pre><a href="{{ '/assets/bib/000179560.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and M.&nbsp;A. Teuerle.
+ Ruin probability in finite time.
+ In P.&nbsp;Čižek, W.&nbsp;K. Härdle, and R.&nbsp;Weron, editors, <em>Statistical
+  tools for finance and insurance. 2nd Edition</em>, pages 329-348. Springer,
+  Berlin; Heidelberg, 2011.
+[&nbsp; 
+<a href="https://doi.org/10.1007/978-3-642-18062-0_10">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000174683,
+  author = {Burnecki, Krzysztof and Teuerle, Marek A.},
+  title = {Ruin probability in finite time
+},
+  booktitle = {Statistical tools for finance and insurance. 2nd Edition},
+  editor = {Čižek, Pavel and  Wolfgang Karl Härdle and  Rafał Weron},
+  address = {Berlin; Heidelberg},
+  publisher = {Springer},
+  pages = {329-348},
+  isbn = {9783642180613},
+  year = {2011},
+  doi = {10.1007/978-3-642-18062-0_10}
+}</code></pre><a href="{{ '/assets/bib/000174683.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, J.&nbsp;B. Janczura, and R.&nbsp;Weron.
+ Building loss models.
+ In P.&nbsp;Čižek, W.&nbsp;K. Härdle, and R.&nbsp;Weron, editors, <em>Statistical
+  tools for finance and insurance. 2nd Edition</em>, pages 293-328. Springer,
+  Berlin; Heidelberg, 2011.
+[&nbsp; 
+<a href="https://doi.org/10.1007/978-3-642-18062-0">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000174452,
+  author = {Burnecki, Krzysztof and Janczura, Joanna B. and Weron, Rafał},
+  title = {Building loss models
+},
+  booktitle = {Statistical tools for finance and insurance. 2nd Edition},
+  editor = {Čižek, Pavel and  Wolfgang Karl Härdle and  Rafał Weron},
+  address = {Berlin; Heidelberg},
+  publisher = {Springer},
+  pages = {293-328},
+  isbn = {9783642180613},
+  year = {2011},
+  doi = {10.1007/978-3-642-18062-0}
+}</code></pre><a href="{{ '/assets/bib/000174452.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and R.&nbsp;Weron.
+ Visualization tools for insurance risk processes.
+ In <em>Handbook of data visualization</em>, pages 899-920. Springer,
+  Berlin; Heidelberg, 2008.
+[&nbsp; 
+<a href="https://doi.org/10.1007/978-3-540-33037-0_35">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000157726,
+  author = {Burnecki, Krzysztof and Weron, Rafał},
+  title = {Visualization tools for insurance risk processes
+},
+  booktitle = {Handbook of data visualization},
+  address = {Berlin; Heidelberg},
+  publisher = {Springer},
+  pages = {899-920},
+  isbn = {9783540330363},
+  year = {2008},
+  doi = {10.1007/978-3-540-33037-0_35}
+}</code></pre><a href="{{ '/assets/bib/000157726.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and J.&nbsp;Nowicka-Zagrajek.
+ Składka kwantylowa w modelu ryzyka a dane szkodowe z obcięciem
+  dolnym.
+ In <em>Statystyka aktuarialna - stan i perspektywy rozwoju w Polsce.
+  Pod red. W. Ostasiewicza.</em>, volume nr 1108 of <em>Prace Naukowe Akademii
+  Ekonomicznej im. Oskara Langego we Wrocławiu</em>, pages 306-317. Wydaw. AE,
+  Wrocław, 2006.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000150124,
+  author = {Burnecki, Krzysztof and Nowicka-Zagrajek, Joanna},
+  title = {Składka kwantylowa w modelu ryzyka a dane szkodowe z obcięciem dolnym
+},
+  booktitle = {Statystyka aktuarialna - stan i perspektywy rozwoju w Polsce. Pod red. W. Ostasiewicza.},
+  address = {Wrocław},
+  publisher = {Wydaw. AE},
+  pages = {306-317},
+  volume = {nr 1108},
+  series = {Prace Naukowe Akademii Ekonomicznej im. Oskara Langego we Wrocławiu},
+  year = {2006}
+}</code></pre><a href="{{ '/assets/bib/000150124.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+J.&nbsp;Nowicka-Zagrajek and <b>K.&nbsp;Burnecki</b>.
+ Wybrane rodzaje składek w modelu ryzyka kolektywnego.
+ In <em>Inwestycje finansowe i ubezpieczenia - tendencje światowe a
+  polski rynek. Red. nauk. Wanda Ronka-Chmielowiec, Krzysztof Jajuga. T. 2.</em>,
+  volume nr 1088 of <em>Prace Naukowe Akademii Ekonomicznej im. Oskara Langego
+  we Wrocławiu</em>, pages 48-55. Wydaw. AE, Wrocław, 2005.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000145333,
+  author = {Nowicka-Zagrajek, Joanna and Burnecki, Krzysztof},
+  title = {Wybrane rodzaje składek w modelu ryzyka kolektywnego
+},
+  booktitle = {Inwestycje finansowe i ubezpieczenia - tendencje światowe a polski rynek. Red. nauk. Wanda Ronka-Chmielowiec, Krzysztof Jajuga. T. 2.},
+  address = {Wrocław},
+  publisher = {Wydaw. AE},
+  pages = {48-55},
+  volume = {nr 1088},
+  series = {Prace Naukowe Akademii Ekonomicznej im. Oskara Langego we Wrocławiu},
+  year = {2005}
+}</code></pre><a href="{{ '/assets/bib/000145333.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, J.&nbsp;Nowicka-Zagrajek, and A.&nbsp;Wyłomańska.
+ Pure risk premiums under deductibles.
+ In <em>Statistical tools for finance and insurance. [Eds] P.
+  Čižek, W. Härdle, R. Weron.</em>, pages 427-452. Springer, Berlin, 2005.
+[&nbsp; 
+<a href="https://doi.org/10.1007/3-540-27395-6_19">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000144785,
+  author = {Burnecki, Krzysztof and Nowicka-Zagrajek, Joanna and Wyłomańska, Agnieszka},
+  title = {Pure risk premiums under deductibles
+},
+  booktitle = {Statistical tools for finance and insurance. [Eds] P. Čižek, W. Härdle, R. Weron.},
+  address = {Berlin},
+  publisher = {Springer},
+  pages = {427-452},
+  isbn = {3540221891},
+  year = {2005},
+  doi = {10.1007/3-540-27395-6_19}
+}</code></pre><a href="{{ '/assets/bib/000144785.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, P.&nbsp;Mista, and A.&nbsp;Weron.
+ Ruin probabilities in finite and infinite time.
+ In <em>Statistical tools for finance and insurance. [Eds] P.
+  Čižek, W. Härdle, R. Weron.</em>, pages 341-379. Springer, Berlin, 2005.
+[&nbsp; 
+<a href="https://doi.org/10.1007/3-540-27395-6_15">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000144782,
+  author = {Burnecki, Krzysztof and Mista, Paweł and Weron, Aleksander},
+  title = {Ruin probabilities in finite and infinite time
+},
+  booktitle = {Statistical tools for finance and insurance. [Eds] P. Čižek, W. Härdle, R. Weron.},
+  address = {Berlin},
+  publisher = {Springer},
+  pages = {341-379},
+  isbn = {3540221891},
+  year = {2005},
+  doi = {10.1007/3-540-27395-6_15}
+}</code></pre><a href="{{ '/assets/bib/000144782.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b> and R.&nbsp;Weron.
+ Modeling of the risk process.
+ In <em>Statistical tools for finance and insurance. [Eds] P.
+  Čižek, W. Härdle, R. Weron.</em>, pages 319-339. Springer, Berlin, 2005.
+[&nbsp; 
+<a href="https://doi.org/10.1007/3-540-27395-6_14">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000144781,
+  author = {Burnecki, Krzysztof and Weron, Rafał},
+  title = {Modeling of the risk process
+},
+  booktitle = {Statistical tools for finance and insurance. [Eds] P. Čižek, W. Härdle, R. Weron.},
+  address = {Berlin},
+  publisher = {Springer},
+  pages = {319-339},
+  isbn = {3540221891},
+  year = {2005},
+  doi = {10.1007/3-540-27395-6_14}
+}</code></pre><a href="{{ '/assets/bib/000144781.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, A.&nbsp;Misiorek, and R.&nbsp;Weron.
+ Loss distributions.
+ In <em>Statistical tools for finance and insurance. [Eds] P.
+  Čižek, W. Härdle, R. Weron.</em>, pages 289-317. Springer, Berlin, 2005.
+[&nbsp; 
+<a href="https://doi.org/10.1007/3-540-27395-6_13">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000144780,
+  author = {Burnecki, Krzysztof and Misiorek, Adam and Weron, Rafał},
+  title = {Loss distributions
+},
+  booktitle = {Statistical tools for finance and insurance. [Eds] P. Čižek, W. Härdle, R. Weron.},
+  address = {Berlin},
+  publisher = {Springer},
+  pages = {289-317},
+  isbn = {3540221891},
+  year = {2005},
+  doi = {10.1007/3-540-27395-6_13}
+}</code></pre><a href="{{ '/assets/bib/000144780.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, G.&nbsp;Kukla, and D.&nbsp;Taylor.
+ Pricing of catastrophe bonds.
+ In <em>Statistical tools for finance and insurance. [Eds] P.
+  Čižek, W. Härdle, R. Weron.</em>, pages 93-114. Springer, Berlin, 2005.
+[&nbsp; 
+<a href="https://doi.org/10.1007/3-540-27395-6_4">DOI</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000144778,
+  author = {Burnecki, Krzysztof and Kukla, Grzegorz and Taylor, David},
+  title = {Pricing of catastrophe bonds
+},
+  booktitle = {Statistical tools for finance and insurance. [Eds] P. Čižek, W. Härdle, R. Weron.},
+  address = {Berlin},
+  publisher = {Springer},
+  pages = {93-114},
+  isbn = {3540221891},
+  year = {2005},
+  doi = {10.1007/3-540-27395-6_4}
+}</code></pre><a href="{{ '/assets/bib/000144778.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, W.&nbsp;Haerdle, and R.&nbsp;Weron.
+ Simulation of risk processes.
+ In J.&nbsp;L&nbsp;Teugels and B.&nbsp;Sundt, editors, <em>Encyclopedia of actuarial
+  science. Vol. 3</em>, pages 1564-1570. Wiley, Chichester, 2004.
+
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000143416,
+  author = {Burnecki, Krzysztof and Haerdle, Wolfgang and Weron, Rafał},
+  title = {Simulation of risk processes
+},
+  booktitle = {Encyclopedia of actuarial science. Vol. 3},
+  editor = {L Teugels, Jozef and  Bjorn Sundt},
+  address = {Chichester},
+  publisher = {Wiley},
+  pages = {1564-1570},
+  isbn = {0470846763},
+  year = {2004}
+}</code></pre><a href="{{ '/assets/bib/000143416.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr><tr class="publication-entry" data-kind="chapter">
+<td class="bibtexnumber">
+</td>
+<td class="bibtexitem">
+<b>K.&nbsp;Burnecki</b>, J.&nbsp;Rosiński, and A.&nbsp;Weron.
+ Spectral representation and structure of stable self-similar
+  processes.
+ In I.&nbsp;Karatzas, B.&nbsp;S. Rajput, and M.&nbsp;S. Taqqu, editors, <em>
+  Stochastic processes and related topics. In Memory of Stamatis Cambanis
+  1943-1995</em>, Trends in Mathematics, pages 1-14. Birkhauser, Boston [i in.],
+  1998.
+[&nbsp; 
+<a href="https://doi.org/10.1007/978-1-4612-2030-5_1">DOI</a>&nbsp;| 
+<a href="https://link.springer.com/chapter/10.1007/978-1-4612-2030-5_1">html</a>&nbsp;]
+
+<details class="bibtex-panel"><summary>bib</summary><pre><code>@incollection{000111608,
+  author = {Burnecki, Krzysztof and Rosiński, Jan and Weron, Aleksander},
+  title = {Spectral representation and structure of stable self-similar processes
+},
+  booktitle = {Stochastic processes and related topics. In Memory of Stamatis Cambanis 1943-1995},
+  editor = {Karatzas, Ioannis and  Balram S. Rajput and  Murad S. Taqqu},
+  address = {Boston [i in.]},
+  publisher = {Birkhauser},
+  pages = {1-14},
+  isbn = {0817639985},
+  series = {Trends in Mathematics},
+  year = {1998},
+  doi = {10.1007/978-1-4612-2030-5_1},
+  url = {https://link.springer.com/chapter/10.1007/978-1-4612-2030-5_1}
+}</code></pre><a href="{{ '/assets/bib/000111608.bib' | relative_url }}" download>Download BibTeX</a></details></td>
+</tr></table><h2>Preprints</h2><p>These manuscripts are listed separately from published journal articles. Publication status checked on 20 October 2026.</p><table><tr class="publication-entry" data-kind="preprint"><td>Julia Kończal; Michał Balcerek; <b>Krzysztof Burnecki</b>. Machine learning models for predicting catastrophe bond coupons using climate data. <em>arXiv:2512.22660, 2025 — preprint</em>. [<a href="https://arxiv.org/abs/2512.22660">arXiv</a> | <a href="https://arxiv.org/pdf/2512.22660">PDF</a>]<details class="bibtex-panel"><summary>bib</summary><pre><code>@misc{arxiv251222660,
+  author = {Kończal, Julia and Balcerek, Michał and Burnecki, Krzysztof},
+  title = {Machine learning models for predicting catastrophe bond coupons using climate data},
+  year = {2025},
+  eprint = {2512.22660},
+  archivePrefix = {arXiv},
+  primaryClass = {q-fin.PR},
+  doi = {10.48550/arXiv.2512.22660},
+  url = {https://arxiv.org/abs/2512.22660},
+  note = {Preprint}
+}</code></pre><a href="{{ '/assets/bib/arxiv251222660.bib' | relative_url }}" download>Download BibTeX</a></details></td></tr><tr class="publication-entry" data-kind="preprint"><td><b>Krzysztof Burnecki</b>; Marek Teuerle; Martyna Zdeb. Modelling and valuation of catastrophe bonds across multiple regions. <em>arXiv:2512.08890, 2025 — preprint</em>. [<a href="https://arxiv.org/abs/2512.08890">arXiv</a> | <a href="https://arxiv.org/pdf/2512.08890">PDF</a>]<details class="bibtex-panel"><summary>bib</summary><pre><code>@misc{arxiv251208890,
+  author = {Burnecki, Krzysztof and Teuerle, Marek and Zdeb, Martyna},
+  title = {Modelling and valuation of catastrophe bonds across multiple regions},
+  year = {2025},
+  eprint = {2512.08890},
+  archivePrefix = {arXiv},
+  primaryClass = {q-fin.PR},
+  doi = {10.48550/arXiv.2512.08890},
+  url = {https://arxiv.org/abs/2512.08890},
+  note = {Preprint}
+}</code></pre><a href="{{ '/assets/bib/arxiv251208890.bib' | relative_url }}" download>Download BibTeX</a></details></td></tr><tr class="publication-entry" data-kind="preprint"><td>Jacek Wszoła; <b>Krzysztof Burnecki</b>; Marek Teuerle; Martyna Zdeb. Design and valuation of multi-region CoCoCat bonds. <em>arXiv:2510.17221, 2025 — preprint</em>. [<a href="https://arxiv.org/abs/2510.17221">arXiv</a> | <a href="https://arxiv.org/pdf/2510.17221">PDF</a>]<details class="bibtex-panel"><summary>bib</summary><pre><code>@misc{arxiv251017221,
+  author = {Wszoła, Jacek and Burnecki, Krzysztof and Teuerle, Marek and Zdeb, Martyna},
+  title = {Design and valuation of multi-region CoCoCat bonds},
+  year = {2025},
+  eprint = {2510.17221},
+  archivePrefix = {arXiv},
+  primaryClass = {q-fin.PR},
+  doi = {10.48550/arXiv.2510.17221},
+  url = {https://arxiv.org/abs/2510.17221},
+  note = {Preprint}
+}</code></pre><a href="{{ '/assets/bib/arxiv251017221.bib' | relative_url }}" download>Download BibTeX</a></details></td></tr></table>
+<script defer src="{{ '/assets/js/personal.js' | relative_url }}"></script>

@@ -1,0 +1,43 @@
+---
+layout: page
+title: "Research"
+permalink: /research/
+nav: true
+nav_order: 1
+description: "Stochastic models, statistical methods and their applications."
+---
+<link rel="stylesheet" href="{{ '/assets/css/personal.css' | relative_url }}">
+<p class="lead">Applied mathematics at the interface of stochastic processes, statistical inference and real-world data.</p>
+<nav class="inline-links" aria-label="Explore research activities"><a href="{{ '/cooperation/' | relative_url }}">International cooperation →</a><a href="{{ '/conferences/' | relative_url }}">Conferences and talks →</a></nav>
+<section id="stochastic-modelling"><h2>Stochastic modelling</h2><p>My research includes heavy-tailed and long-memory models, self-similar stochastic processes and (tempered) fractional dynamical systems. These models describe variability and dependence beyond classical Gaussian and short-memory assumptions.</p></section><section id="statistics"><h2>Computational statistics &amp; mathematical (bio)physics</h2><p>I work on statistical identification and validation of stochastic dynamics, including anomalous diffusion and single-particle tracking. Applications include complex physical and biological systems.</p></section><section id="insurance"><h2>Insurance mathematics</h2><p>My work in insurance mathematics covers loss distributions, risk processes, ruin probabilities and insurance-linked securities.</p></section><h2>Research grants</h2><dl>
+<dt>2001-2004</dt>
+<dd> Mathematical methods in analysis of financial markets and instruments in Poland, KBN, PBZ-KBN 016/P03/99, participant.</dd>
+<dt>2003-2005</dt>
+<dd> Analysis of financial markets and instruments in Poland and South Africa, KBN, KBN 
+009/2003-2004, <b>principal investigator</b>.</dd>
+<dt>2007-2012</dt>
+<dd> ENVIROTEX: New generation barrier materials protecting against harmful environment, POIG.01.03.01-00-006/08, participant.</dd>
+<dt>2008-2013</dt>
+<dd> Detectors and sensors for measuring factors hazardous to environment – modeling and monitoring of threats, POIG.01.03.01-02-002/08, <b>vice-coordinator</b>.</dd>
+<dt> 2009-2011 </dt>
+<dd> Energy industry development strategy in Lower Silesia by means of foresight methods, POIG.01.01.01-02-005/08, participant.</dd>
+<dt> 2010-2013 </dt>
+<dd> Anomalous diffusion processes. Theory and applications, KBN, NN201 417639, participant.</dd>
+<dt> 2013-2018 </dt>
+<dd> <a href="http://prac.im.pwr.wroc.pl/~hugo/HSC/maestro2.html">Anomalous dynamics of complex physical and biological systems – stochastic modeling and statistical identification</a>, Maestro NCN 2012/06/A/ST1/00258, participant.</dd>
+<dt> 2018-2023 </dt>
+<dd> <a href="http://prac.im.pwr.wroc.pl/~hugo/HSC/beethoven.html">Mathematical and physical modeling of single particle tracking – big data approach (sptBIGDATA)</a>, Beethoven DFG-NCN 2016/23/G/ST1/04083, <b>vice-coordinator</b>.</dd>
+<dt> 2023-2026 </dt>
+<dd> <a href="{{ '/research/natural-catastrophe-risk/' | relative_url }}">Multi-peril and multi-region natural catastrophe risk management: from building multidimensional loss models to novel CAT securities</a>, NCN OPUS 24 2022/47/B/HS4/02139, <b>principal investigator</b>.</dd>
+</dl>
+<hr>
+<dl>
+<dt>02.2020-02.2022</dt>
+<dd> Anomaly detection in complex physical, astrophysical and biological systems - stochastic analysis and statistical identification. Prof. Oleksandr Stanyslavskyi’s Ulam Programme Scholarship (PLN 447 000), Polish National Agency for Academic Exchange, <b>coordinator</b>.</dd>
+</dl>
+<hr>
+<dl>
+<dt>2022-2025</dt>
+<dd> Risk management of a portfolio of mortgage-based securities, Doktorat wdrożeniowy / Implementation doctorate,  Michał Wronka (BNY Mellon), DWD/6/0551/2022, <b>coordinator</b>.</dd>
+</dl>
+<script defer src="{{ '/assets/js/personal.js' | relative_url }}"></script>

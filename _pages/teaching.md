@@ -1,0 +1,11 @@
+---
+layout: page
+title: "Teaching"
+permalink: /teaching/
+nav: true
+nav_order: 3
+description: "Information for students."
+---
+<link rel="stylesheet" href="{{ '/assets/css/personal.css' | relative_url }}">
+<p class="lead">Information for students and consultation hours.</p><section><h2>Courses this academic year</h2><ul><li><strong>Matematyka ubezpieczeń życiowych</strong> — lectures, Matematyka stosowana.</li><li><strong>Non-life insurance mathematics</strong> — lectures, Applied Mathematics.</li></ul></section><section class="contact-panel"><h2>Consultation hours</h2><p>Wednesday <strong>13:00–15:00</strong></p><p>Room A.3.24, Building C-19.</p><p>Please let me know by email in advance if you would like to attend a consultation.</p></section><h2>Get in touch</h2><p>For questions about teaching and student consultations, write to <a href="mailto:krzysztof.burnecki@pwr.edu.pl">krzysztof.burnecki@pwr.edu.pl</a>.</p>
+<script defer src="{{ '/assets/js/personal.js' | relative_url }}"></script>
