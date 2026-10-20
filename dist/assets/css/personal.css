@@ -6,3 +6,6 @@
 .bibtex-panel{margin-top:10px;font-size:14px}.bibtex-panel summary{color:var(--accent);cursor:pointer;width:fit-content;font-weight:400}.bibtex-panel pre{max-width:100%;white-space:pre-wrap;overflow-wrap:anywhere;background:var(--soft);padding:16px;border:1px solid var(--line);font-size:12px;line-height:1.6}.publication-entry[data-kind="book"]{padding:20px 0;border-bottom:1px solid var(--line)}
 
 #tasks li,#outputs li,#talks li{margin-bottom:18px}section[id]{scroll-margin-top:30px}
+
+/* Fixed light palette: render the same colours from the first paint. */
+:root,html[data-theme=dark],html[data-theme=light]{--accent:#007c83;--paper:#fff;--ink:#292d32;--muted:#687177;--line:#e0e5e5;--soft:#f5f8f8;color-scheme:light}
