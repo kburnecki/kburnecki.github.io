@@ -20,3 +20,6 @@
 html[data-theme=dark] .research-grid section{background:var(--soft);box-shadow:0 2px 4px rgba(0,0,0,.25),0 10px 24px rgba(0,0,0,.35)}
 @media(max-width:760px){.research-grid{gap:18px}.research-grid section,.research-grid section+section{padding:24px}}
 @media(prefers-reduced-motion:reduce){.research-grid section{transition:none}.research-grid section:hover,.research-grid section:focus-within{transform:none}}
+
+/* Make Academic service journal links visible in the al-folio typography. */
+.service a,.service a em{color:var(--accent)!important}.service a{text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}.service a:hover{text-decoration-thickness:2px}
