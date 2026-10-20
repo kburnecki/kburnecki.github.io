@@ -7,5 +7,6 @@
 
 #tasks li,#outputs li,#talks li{margin-bottom:18px}section[id]{scroll-margin-top:30px}
 
-/* Fixed light palette: render the same colours from the first paint. */
-:root,html[data-theme=dark],html[data-theme=light]{--accent:#007c83;--paper:#fff;--ink:#292d32;--muted:#687177;--line:#e0e5e5;--soft:#f5f8f8;color-scheme:light}
+
+
+.post-title .font-weight-bold{font-weight:300!important}.profile-links{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;margin:22px 0;font-size:15px}.publication-links{display:block;margin-top:4px;font-size:14px}.publication-links .bibtex-panel{display:inline;margin:0;font-size:inherit}.publication-links .bibtex-panel summary{display:inline;list-style:none}.publication-links .bibtex-panel summary::-webkit-details-marker{display:none}.publication-links .bibtex-panel[open] pre{display:block;clear:both}
