@@ -10,3 +10,13 @@
 
 
 .post-title .font-weight-bold{font-weight:300!important}.profile-links{display:flex;flex-wrap:wrap;gap:8px 18px;align-items:center;margin:22px 0;font-size:15px}.publication-links{display:block;margin-top:4px;font-size:14px}.publication-links .bibtex-panel{display:inline;margin:0;font-size:inherit}.publication-links .bibtex-panel summary{display:inline;list-style:none}.publication-links .bibtex-panel summary::-webkit-details-marker{display:none}.publication-links .bibtex-panel[open] pre{display:block;clear:both}
+
+/* Raised research interest tiles, scoped to the homepage. */
+.research-grid{gap:22px;border:0;align-items:stretch}
+.research-grid section,.research-grid section+section{display:flex;flex-direction:column;padding:26px;border:1px solid var(--line);border-radius:14px;background:var(--paper);box-shadow:0 2px 3px rgba(24,45,55,.04),0 9px 22px rgba(24,45,55,.10);transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease}
+.research-grid section a{align-self:flex-start;margin-top:auto;padding-top:7px}
+.research-grid section:focus-within{transform:translateY(-4px);border-color:var(--accent);box-shadow:0 5px 8px rgba(24,45,55,.07),0 16px 30px rgba(24,45,55,.15)}
+@media(hover:hover){.research-grid section:hover{transform:translateY(-4px);border-color:var(--accent);box-shadow:0 5px 8px rgba(24,45,55,.07),0 16px 30px rgba(24,45,55,.15)}}
+html[data-theme=dark] .research-grid section{background:var(--soft);box-shadow:0 2px 4px rgba(0,0,0,.25),0 10px 24px rgba(0,0,0,.35)}
+@media(max-width:760px){.research-grid{gap:18px}.research-grid section,.research-grid section+section{padding:24px}}
+@media(prefers-reduced-motion:reduce){.research-grid section{transition:none}.research-grid section:hover,.research-grid section:focus-within{transform:none}}
