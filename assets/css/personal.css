@@ -29,3 +29,6 @@ html[data-theme=dark] .research-grid section{background:var(--soft);box-shadow:0
 html[data-theme=dark]{--publication-hover-bg:#263337}
 tr.publication-entry:hover,.table-hover tbody tr.publication-entry:hover{background:var(--publication-hover-bg)!important;color:var(--ink)!important}
 tr.publication-entry:hover>td,.table-hover tbody tr.publication-entry:hover>td{background:transparent!important;color:var(--ink)!important}
+
+/* Make each research card clickable across its whole surface. */
+.research-grid section{position:relative}.research-grid .area-link::after{content:"";position:absolute;inset:0;border-radius:14px}.research-grid section:focus-within{outline:2px solid var(--accent);outline-offset:4px}
