@@ -32,3 +32,7 @@ tr.publication-entry:hover>td,.table-hover tbody tr.publication-entry:hover>td{b
 
 /* Make each research card clickable across its whole surface. */
 .research-grid section{position:relative}.research-grid .area-link::after{content:"";position:absolute;inset:0;border-radius:14px}.research-grid section:focus-within{outline:2px solid var(--accent);outline-offset:4px}
+
+/* Highlight the selected Nature paper without obscuring the citation. */
+tr.publication-featured > td.bibtexitem{border-left:3px solid var(--accent);padding-left:16px;padding-right:12px}
+.publication-badge{display:table;margin-bottom:8px;padding:3px 10px;border:1px solid var(--accent);border-radius:5px;color:var(--accent);font-size:12px;font-weight:700;line-height:1.5;letter-spacing:.04em}
